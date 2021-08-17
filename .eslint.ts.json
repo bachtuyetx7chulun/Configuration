@@ -57,6 +57,8 @@
         "component": true,
         "html": false
       }
-    ]
+    ],
+    "jsx-quotes": ["error", "prefer-single"],
+    "comma-dangle": ["error", "never"]
   }
 }
